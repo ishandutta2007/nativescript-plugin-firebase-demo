@@ -13,7 +13,7 @@ var DemoAppModel = (function (_super) {
   DemoAppModel.prototype.doInit = function () {
     var that = this;
     firebase.init({
-      storageBucket: 'gs://n-plugin-test.appspot.com',
+      storageBucket: 'gs://bbnsng-9f98d.appspot.com',
       persist: true, // optional, default false
       onAuthStateChanged: function(data) { // optional
         console.log((data.loggedIn ? "Logged in to firebase" : "Logged out from firebase") + " (init's onAuthStateChanged callback)");

@@ -68,10 +68,10 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>org.nativescript.firebasedemo</string>
+			<string>org.nativescript.bbnsng</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>org.nativescript.firebasedemo</string>
+				<string>org.nativescript.bbnsng</string>
 			</array>
 		</dict>
 		<dict>
@@ -88,7 +88,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>org.nativescript.firebasedemo</string>
+			<string>org.nativescript.bbnsng</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>fb126035687816994</string>

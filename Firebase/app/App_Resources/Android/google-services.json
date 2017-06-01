@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "1052836194035",
-    "firebase_url": "https://n-plugin-test.firebaseio.com",
-    "project_id": "n-plugin-test",
-    "storage_bucket": "n-plugin-test.appspot.com"
+    "project_number": "908066752779",
+    "firebase_url": "https://bbnsng-9f98d.firebaseio.com",
+    "project_id": "bbnsng-9f98d",
+    "storage_bucket": "bbnsng-9f98d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1052836194035:android:443e3741d53b6bc3",
+        "mobilesdk_app_id": "1:908066752779:android:e60e1bf0e2a6090d",
         "android_client_info": {
-          "package_name": "org.nativescript.firebasedemo"
+          "package_name": "org.nativescript.bbnsng"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1052836194035-mvghp8j5h3eh17c0n1dl0pkaeum8hjii.apps.googleusercontent.com",
+          "client_id": "908066752779-mdk6qbjso6q0fkgh0ihoine4si5oalhc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDSMjaKslCCA-U4MZm_ZFQjkGP_mS0RQKM"
+          "current_key": "AIzaSyA6nhTfUoqwJX7uTMiRU6GSlqoOAbwnkrk"
         }
       ],
       "services": {

@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>1052836194035-l81fsjai1u40ocnqjcpnoebnnsltt03b.apps.googleusercontent.com</string>
+	<string>908066752779-8dmedhsnqc2bsorn36udh7pg9j9rntne.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1052836194035-l81fsjai1u40ocnqjcpnoebnnsltt03b</string>
+	<string>com.googleusercontent.apps.908066752779-8dmedhsnqc2bsorn36udh7pg9j9rntne</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDuXPZxKamjttwP_hYpnX7MvDoZWhAVVtk</string>
+	<string>AIzaSyD92D4Fja47edzbwajm4oCct0FFuOCEAiA</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1052836194035</string>
+	<string>908066752779</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>org.nativescript.firebasedemo</string>
+	<string>org.nativescript.bbnsng</string>
 	<key>PROJECT_ID</key>
-	<string>n-plugin-test</string>
+	<string>bbnsng-9f98d</string>
 	<key>STORAGE_BUCKET</key>
-	<string>n-plugin-test.appspot.com</string>
+	<string>bbnsng-9f98d.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1052836194035:ios:443e3741d53b6bc3</string>
+	<string>1:908066752779:ios:e60e1bf0e2a6090d</string>
 	<key>DATABASE_URL</key>
-	<string>https://n-plugin-test.firebaseio.com</string>
+	<string>https://bbnsng-9f98d.firebaseio.com</string>
 </dict>
 </plist>
